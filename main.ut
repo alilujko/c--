@@ -1,0 +1,6 @@
+let text = 'Hello'
+// 67
+Console.print(text)
+
+let text2 = '67'
+Console.print(text2)

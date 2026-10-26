@@ -1,0 +1,14 @@
+H:\programing\C#\learn\utitan-langue\utitan-langue\bin\Debug\net10.0\utitan-langue.exe
+H:\programing\C#\learn\utitan-langue\utitan-langue\bin\Debug\net10.0\utitan-langue.deps.json
+H:\programing\C#\learn\utitan-langue\utitan-langue\bin\Debug\net10.0\utitan-langue.runtimeconfig.json
+H:\programing\C#\learn\utitan-langue\utitan-langue\bin\Debug\net10.0\utitan-langue.dll
+H:\programing\C#\learn\utitan-langue\utitan-langue\bin\Debug\net10.0\utitan-langue.pdb
+H:\programing\C#\learn\utitan-langue\utitan-langue\obj\Debug\net10.0\utitan-langue.GeneratedMSBuildEditorConfig.editorconfig
+H:\programing\C#\learn\utitan-langue\utitan-langue\obj\Debug\net10.0\utitan-langue.AssemblyInfoInputs.cache
+H:\programing\C#\learn\utitan-langue\utitan-langue\obj\Debug\net10.0\utitan-langue.AssemblyInfo.cs
+H:\programing\C#\learn\utitan-langue\utitan-langue\obj\Debug\net10.0\utitan-langue.csproj.CoreCompileInputs.cache
+H:\programing\C#\learn\utitan-langue\utitan-langue\obj\Debug\net10.0\utitan-langue.dll
+H:\programing\C#\learn\utitan-langue\utitan-langue\obj\Debug\net10.0\refint\utitan-langue.dll
+H:\programing\C#\learn\utitan-langue\utitan-langue\obj\Debug\net10.0\utitan-langue.pdb
+H:\programing\C#\learn\utitan-langue\utitan-langue\obj\Debug\net10.0\utitan-langue.genruntimeconfig.cache
+H:\programing\C#\learn\utitan-langue\utitan-langue\obj\Debug\net10.0\ref\utitan-langue.dll
