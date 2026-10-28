@@ -4,3 +4,7 @@ Console.print(text)
 
 let text2 = '67'
 Console.print(text2)
+let pause_67 = 2500
+Console.input(text)
+let con = 2500
+Console.pause(con)

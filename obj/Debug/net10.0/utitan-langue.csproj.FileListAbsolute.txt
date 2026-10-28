@@ -12,3 +12,4 @@ H:\programing\C#\learn\utitan-langue\utitan-langue\obj\Debug\net10.0\refint\utit
 H:\programing\C#\learn\utitan-langue\utitan-langue\obj\Debug\net10.0\utitan-langue.pdb
 H:\programing\C#\learn\utitan-langue\utitan-langue\obj\Debug\net10.0\utitan-langue.genruntimeconfig.cache
 H:\programing\C#\learn\utitan-langue\utitan-langue\obj\Debug\net10.0\ref\utitan-langue.dll
+H:\programing\C#\learn\utitan-langue\utitan-langue\obj\Debug\net10.0\utitan-langue.sourcelink.json

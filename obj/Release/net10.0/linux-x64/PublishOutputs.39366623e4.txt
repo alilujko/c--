@@ -1,0 +1,2 @@
+H:\programing\C#\learn\utitan-langue\utitan-langue\bin\Release\net10.0\linux-x64\publish\utitan-langue.pdb
+H:\programing\C#\learn\utitan-langue\utitan-langue\bin\Release\net10.0\linux-x64\publish\utitan-langue

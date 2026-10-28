@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("utitan-langue")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4227b6d36f0e8d00d7817f4b2b1e0aa8d8eaef4b")]
 [assembly: System.Reflection.AssemblyProductAttribute("utitan-langue")]
 [assembly: System.Reflection.AssemblyTitleAttribute("utitan-langue")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
